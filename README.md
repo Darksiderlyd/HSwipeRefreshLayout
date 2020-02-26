@@ -1,4 +1,5 @@
 # HSwipeRefreshLayout
+## 如果您使用了请顺手帮忙点个star 感谢
 ```
 //用法与原生一致
 mSwipeRefresh = mBinding.shrlLayout;
